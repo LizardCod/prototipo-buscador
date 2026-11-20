@@ -1,0 +1,6 @@
+{
+  "name": "RegisExcel — Buscador y Gestor Multimódulo",
+  "description": "Aplicación mobile-first para importar archivos Excel desde filas configurables, previsualizar registros, buscar con coincidencia parcial LIKE y filtrar por prefijos y meses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
